@@ -9,15 +9,15 @@ Best Case:- O(n)
 Average Case:- O(n log n)
 Worst Case:- O(n log n)
 
-for loop is used. There is a for loop in a for loop.
-Best Case:- O(2n)
-Average Case:- O(2n)
-Worst Case:- O(2n)
+for loop is used. There are two for loops in a for loop.
+Best Case:- O(n^2)
+Average Case:- O(n^2)
+Worst Case:- O(n^2)
 
 Therefore, the final Big-O is:-
-Best Case:- O(2n)
-Average Case:- O(2n)
-Worst Case:- O(2n)
+Best Case:- O(n^2)
+Average Case:- O(n^2)
+Worst Case:- O(n^2)
 
 input.txt:-
 
